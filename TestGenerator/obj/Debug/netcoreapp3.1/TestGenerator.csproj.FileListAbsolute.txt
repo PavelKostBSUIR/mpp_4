@@ -1,0 +1,10 @@
+D:\5_SEM\MPP-TestsGenerator-main\TestGenerator\bin\Debug\netcoreapp3.1\TestGenerator.deps.json
+D:\5_SEM\MPP-TestsGenerator-main\TestGenerator\bin\Debug\netcoreapp3.1\TestGenerator.dll
+D:\5_SEM\MPP-TestsGenerator-main\TestGenerator\bin\Debug\netcoreapp3.1\TestGenerator.pdb
+D:\5_SEM\MPP-TestsGenerator-main\TestGenerator\obj\Debug\netcoreapp3.1\TestGenerator.csproj.AssemblyReference.cache
+D:\5_SEM\MPP-TestsGenerator-main\TestGenerator\obj\Debug\netcoreapp3.1\TestGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\5_SEM\MPP-TestsGenerator-main\TestGenerator\obj\Debug\netcoreapp3.1\TestGenerator.AssemblyInfoInputs.cache
+D:\5_SEM\MPP-TestsGenerator-main\TestGenerator\obj\Debug\netcoreapp3.1\TestGenerator.AssemblyInfo.cs
+D:\5_SEM\MPP-TestsGenerator-main\TestGenerator\obj\Debug\netcoreapp3.1\TestGenerator.csproj.CoreCompileInputs.cache
+D:\5_SEM\MPP-TestsGenerator-main\TestGenerator\obj\Debug\netcoreapp3.1\TestGenerator.dll
+D:\5_SEM\MPP-TestsGenerator-main\TestGenerator\obj\Debug\netcoreapp3.1\TestGenerator.pdb
